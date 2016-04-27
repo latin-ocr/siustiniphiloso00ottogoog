@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./siustiniphiloso00ottogoog_0010.png"; bbox 0 0 2914 4774; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 582 1883 1344 1962">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 582 1883 1344 1962">
+     <span class='ocr_line' id='line_1_1' title="bbox 582 1883 1344 1962; baseline 0.007 -18"><span class='ocrx_word' id='word_1_1' title='bbox 582 1889 714 1946; x_wconf 70' lang='grc' dir='ltr'><strong><em>Χαλεπὸν</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 731 1883 807 1946; x_wconf 65' lang='grc' dir='ltr'><strong><em>οὕτω</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 827 1908 855 1946; x_wconf 81' lang='grc' dir='ltr'><strong><em>ει</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 872 1889 991 1962; x_wconf 78' lang='grc' dir='ltr'><strong><em>ποιῆσαι</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1006 1885 1077 1947; x_wconf 75' lang='grc' dir='ltr'><strong><em>ὥστε</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1090 1887 1179 1961; x_wconf 73' lang='grc' dir='ltr'><em>μηδὲν</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1196 1886 1344 1962; x_wconf 72' lang='grc' dir='ltr'><strong><em>ἁμαρτεῖν.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 743 2057 1232 2133">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 743 2057 1232 2133">
+     <span class='ocr_line' id='line_1_2' title="bbox 743 2057 1232 2133; baseline 0 -19"><span class='ocrx_word' id='word_1_8' title='bbox 743 2057 882 2132; x_wconf 73' lang='grc' dir='ltr'><strong><em>Δεύτεραε</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 896 2063 1045 2133; x_wconf 70' lang='grc' dir='ltr'><strong><em>φροντίδες</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1063 2057 1232 2132; x_wconf 66' lang='grc' dir='ltr'><strong><em>σοφώτεραι.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1462 4774">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1462 4774">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1462 4774; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1462 4774; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
